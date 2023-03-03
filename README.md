@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathurkushal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently persuing B.tech in Artificial Intelligence And Data Science
 - 📫 How to reach me kushalmathur94@gmail.com
 
 <!---
